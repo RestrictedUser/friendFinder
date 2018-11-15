@@ -1,6 +1,10 @@
 body {
 	font-family: sans-serif;
-	background: aqua;
+	background-image: url("https://i.pinimg.com/originals/2c/12/91/2c1291a2398480174afffd6f8ae0a4c7.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-size: 20px;
+	
 }
 
 .site {
@@ -14,11 +18,12 @@ body {
 }
 
 h1 {
-	font-family: cursive;
+	font-family: sans-serif;
 	font-size: 4em;
 	text-align: center;
 	margin-top: 75px;
 	margin-bottom: 20px;
+	color: black;
 }
 
 p {
@@ -27,6 +32,7 @@ p {
 	line-height: 1.75;
 	margin: auto;
 	font-size: 1.2em;
+	color: black;
 }
 
 footer {

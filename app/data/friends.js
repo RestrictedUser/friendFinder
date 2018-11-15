@@ -145,8 +145,40 @@ var friends = [
       ]
     },
     {
-      "name": "Joe Smith",
-      "photo": "http://mlb.mlb.com/mlb/images/players/head_shot/501925.jpg",
+      "name": "Tom Bing",
+      "photo": "https://43laq7hfw6b26gd6y23qp1cq-wpengine.netdna-ssl.com/wp-content/uploads/2017/07/Ben-Marcum-Photography-Headshot-Photographer-Louisville-Kentucky-Actor-Headshots-Brian-Bowles-Jun-28-2017-428-1024x819.jpg",
+      "scores": [
+        4,
+        1,
+        3,
+        2,
+        5,
+        2,
+        3,
+        3,
+        3,
+        1
+      ]
+    },
+    {
+      "name": "Sammy Car",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD7_svG8WeOCi-DGeV09wiKq2TnYyrKi955wphMXcZgPtByA3z",
+      "scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "Gina Greek",
+      "photo": "https://2arwdp1dlwob2ihy4u33bv5f-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/headshots-chicago-18.jpg",
       "scores": [
         4,
         3,
@@ -161,40 +193,8 @@ var friends = [
       ]
     },
     {
-      "name": "Joe Smith",
-      "photo": "http://mlb.mlb.com/mlb/images/players/head_shot/501925.jpg",
-      "scores": [
-        4,
-        3,
-        3,
-        2,
-        2,
-        1,
-        3,
-        3,
-        3,
-        5
-      ]
-    },
-    {
-      "name": "Joe Smith",
-      "photo": "http://mlb.mlb.com/mlb/images/players/head_shot/501925.jpg",
-      "scores": [
-        4,
-        3,
-        3,
-        2,
-        2,
-        1,
-        3,
-        3,
-        3,
-        5
-      ]
-    },
-    {
-      "name": "Joe Smith",
-      "photo": "http://mlb.mlb.com/mlb/images/players/head_shot/501925.jpg",
+      "name": "Tina Lane",
+      "photo": "https://static1.squarespace.com/static/54ab66dee4b0da465dd06039/54e034fbe4b05fac69eec459/554434d4e4b0a65de4ee8fe5/1430533339238/Mya50563-Edit-Edit-3.jpg",
       "scores": [
         4,
         3,
