@@ -46,6 +46,8 @@ footer {
 
 .btn {
 	margin: 30px;
+	width:200px;
+	height: 60px;
 }
 
 form {
@@ -55,6 +57,7 @@ form {
 a {
 	color: #5cb85c;
 	font-size: 20px;
+	color: black;
 }
 
 #bestFriendModal {
